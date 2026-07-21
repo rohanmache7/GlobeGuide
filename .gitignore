@@ -1,0 +1,21 @@
+# Dependencies
+**/node_modules/
+
+# Next.js
+**/.next/
+
+# Build
+**/dist/
+
+# Puppeteer
+**/.cache/
+
+# Uploads
+**/uploads/
+
+# Environment
+.env
+*.env
+
+# Logs
+*.log
